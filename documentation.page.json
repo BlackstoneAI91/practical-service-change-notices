@@ -1,0 +1,13 @@
+{
+  "name": "Service Change Notices",
+  "title": "Service Change Notices",
+  "description": "Worked examples for updating a public notice or a saved reference when the underlying information changes.",
+  "documentation": {
+    "index": "README.md",
+    "1. Laundry notices": "guides/changing-a-short-stay-laundry-collection-notice.md",
+    "2. Accessory notes": "guides/logging-a-new-variant-in-a-dog-walking-accessory-listing.md",
+    "3. Auto gate notices": "guides/separating-a-project-update-from-a-return-to-normal-notice.md",
+    "4. Supplier references": "guides/changing-the-contact-reference-in-a-supplier-reading-list.md",
+    "5. Website banners": "guides/dating-a-temporary-website-service-availability-banner.md"
+  }
+}
