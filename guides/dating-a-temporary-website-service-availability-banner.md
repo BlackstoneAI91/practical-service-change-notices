@@ -60,6 +60,8 @@ After. The same page shows "Bookings 3–28 March" on small screens and "Appoint
 
 What changed. The message gained a start and an end, the phone version became one line, the owner became a named role, and the removal became a recorded event rather than an intention. Nothing about the underlying service changed; only the discipline around the public statement did.
 
+If a campaign sends customers to the page, ask the [digital marketing team](https://www.blackstoneintelligence.com.my/digital-marketing-agency) to check the landing page after the notice is removed. Update or pause any ad that still promises the temporary arrangement, and test the normal enquiry route before sending campaign traffic back.
+
 ## The Removal Check Itself
 
 A removal check is a short, repeatable routine. It should take minutes, not a meeting.
